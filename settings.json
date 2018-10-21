@@ -1,0 +1,7 @@
+{
+  "input": "./input",
+  "output": "./output",
+  "size": "400x400",
+  "quality": 85,
+  "debounce": 1000
+}
